@@ -2,21 +2,19 @@
 layout: default
 ---
 
-About ACCORD
-=============================================================
- 
-* [Who](#markdown-header-who)
+# About ACCORD
+
+* [Who runs it](#markdown-header-who-runs-it)
 
 Table of Contents:
-1. What is it?
-2. Who can use it?
-3. How do I use it?
-4. Who runs it?
+1. What is it
+2. Who can use it
+3. How do I use it
+4. Who runs it
 
------
 
-What is it
------------------
+# What is it
+
 
 ACCORD is a collaboration across the public universities of Virginia
 to build and share cyberinfrastructure for research on highly sensitive 
@@ -32,8 +30,8 @@ import data, and then create and use disposable computing environments
 to perform their computational research.
 
 
-Who can use it?
--------------------
+# Who can use it
+
 
 This platform is open for approved academic research on highly sensitive data. Researchers from
 institutions of higher education across the Commonwealth of Virginia are invited to request access.
@@ -42,8 +40,8 @@ ACCORD can meet HIPAA, FERPA, and other less-restrictive data sensitivity requir
 restrictive levels, such as CUI, FISMA, PCI cannot be satisfied.
 
 
-How do I use it?
------------------------
+# How do I use it
+
 
 ACCORD is entirely web-based, which means that the primary software you need is a good, modern 
 browser such as Chrome, Firefox, Edge or Safari. Once you have created a project, you will use the 
@@ -54,10 +52,10 @@ platforms in wide use.
 
 ACCORD offers no SSH, Terminal, FTP, Remote Desktop, or VNC access.
 
------
 
-# Who
-------------------
+
+# Who runs it
+
 
 The ACCORD project was designed and built by the [Research Computing Group](https://www.rc.virginia.edu) at the [University of Virginia](https://www.virginia.edu/), under the coordination of the ACCORD Grant Program Manager
 [Tho Nguyen](https://vpit.virginia.edu/tho) (faculty, Computer Science) and [Ron Hutchins](https://vpit.virginia.edu/), Vice Provost for Information Technology.
