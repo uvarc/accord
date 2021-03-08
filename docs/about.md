@@ -5,11 +5,15 @@ layout: default
 About ACCORD
 =============================================================
    
-- [What is it] (#heading)
+Table of Contents:
+1. What is it?
+2. Who can use it?
+3. How do I use it?
+4. Who runs it?
 
 -----
 
-## What is it?
+What is it?
 -----------------
 
 ACCORD is a collaboration across the public universities of Virginia
