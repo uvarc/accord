@@ -46,8 +46,8 @@ steps above), the owner of a project can add those individuals to their project.
 users at any time, and may also remove users as needed.
 
 Because user authentication is handled through single sign-on from each user's home institution, PIs should
-be aware of the ``eppn`` for their colleagues. An ``eppn`` looks similar to most institutional email
-addresses, in the form of `userid` + `domain`, such as ``mst3k@mit.edu`` or ``abc5y@virginia.edu``.
+be aware of the `eppn` for their colleagues. An `eppn` looks similar to most institutional email
+addresses, in the form of `userid` + `domain`, such as `mst3k@mit.edu` or `abc5y@virginia.edu`.
 
 
 ## Transfer Data
@@ -64,7 +64,7 @@ From the ACCORD console, select the project you want to work with. Next select a
 from the list of environments. Your container should be running within a few seconds and will appear
 under "Running Environments" on the same page.
 
-To learn more about your choices of environment, see `Environments <environments.html>`_
+To learn more about your choices of environment, see [Environments](https://accord-documentation.uvarc.io/environments)
 
 ### View the status of an environment
 
