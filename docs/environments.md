@@ -23,8 +23,9 @@ Learn more about the [Theia Python IDE](https://theia-ide.org/)
 Allows for interactive, notebook-based analysis of data. A good choice for pulling quick results or refining your code in 
 numerous languages including Python, R, Julia, bash, etc.
 
+![Jupyter](/assets/img/jupyter_sample.png)
 
-Learn more about `Jupyter Lab <https://jupyter.org/>`_
+Learn more about [Jupyter Lab](https://jupyter.org/)
 
 
 ## RStudio
@@ -32,12 +33,9 @@ Learn more about `Jupyter Lab <https://jupyter.org/>`_
 The standard IDE for research using the R programming language. This environment is useful for generating plots and 
 other R-based analysis.
 
-.. image:: ../_static/images/rstudio_example.png
-   :alt: Jupyter Notebook
-   :align: center
-   :width: 80%
+![RStudio](/assets/img/rstudio_example.png)
 
-Learn more about `RStudio <https://rstudio.com/>`_
+Learn more about [RStudio](https://rstudio.com/)
 
 
 ## Runtimes & Limitations
