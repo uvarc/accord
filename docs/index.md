@@ -14,9 +14,8 @@ To preview the ACCORD platform, all you need is a browser.
 
 [ACCORD Platform](https://accord.uvarc.io/){: .btn .btn-green}
 
-.. raw:: html
 
-    <button class="btn-accord">Invite a Co-Investigator</button>
+<button class="btn-accord">Invite a Co-Investigator</button>
 
 ## How do I use it?
 
