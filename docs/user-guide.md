@@ -106,6 +106,5 @@ environments you have run before. Click the orange "Run" button next to an envir
 
 - Create and install an authentication certificate.
 
+<button onclick="location.href='https://virginia.service-now.com/its/?id=itsweb_kb_article&sys_id=58aafbcfdbf6c744f032f1f51d961927'" type="button">Create a certificate</button>
 
-
-<button class="btn-accord">Create a Certificate</button>
