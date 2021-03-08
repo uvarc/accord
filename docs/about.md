@@ -9,12 +9,6 @@ layout: default
 * [How do I use it](#how-do-i-use-it)
 * [Who runs it](#who-runs-it)
 
-Table of Contents:
-1. What is it
-2. Who can use it
-3. How do I use it
-4. Who runs it
-
 
 ## What is it
 
