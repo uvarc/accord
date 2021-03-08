@@ -12,7 +12,7 @@ layout: default
 To preview the ACCORD platform, all you need is a browser. 
 
 
-    accorcd button <p>Open a tab to <a href="https://accord.uvarc.io/" style="font-weight:bold;" target="_new">https://accord.uvarc.io</a>.</p>
+    [ACCORD Platform](https://accord.uvarc.io/){: .btn}
 
 ## How do I use it?
 
