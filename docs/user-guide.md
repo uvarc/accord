@@ -100,12 +100,12 @@ environments you have run before. Click the orange "Run" button next to an envir
 - A modern web browser such as Chrome, Firefox, Safari, or Edge.
 - Install and register OPSWAT, a posture-checking client.
 
-.. raw:: html
 
-    <button class="btn-accord">Learn more about OPSWAT</button>
+
+    button for opswat <button class="btn-accord">Learn more about OPSWAT</button>
 
 - Create and install an authentication certificate.
 
-.. raw:: html
 
-    <button class="btn-accord">Create a Certificate</button>
+
+    button for certificate <button class="btn-accord">Create a Certificate</button>
