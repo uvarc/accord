@@ -57,7 +57,7 @@ and requests.
 **[TO-DO]** When you request an ACCORD environment, a unique HTTPS endpoint is created for you and 
 *can only be used by you*. That URL will look something like:
 
-`https://jupyter-notebook-1a2b3c4d5e-mst3k.uvarc.io/`
+    `https://jupyter-notebook-1a2b3c4d5e-mst3k.uvarc.io/`
 
 These environments cannot be shared.
 
