@@ -13,7 +13,10 @@ To preview the ACCORD platform, all you need is a browser.
 
 
 [ACCORD Platform](https://accord.uvarc.io/){: .btn .btn-green}
-<button name="ACCORD Platform" onclick="https://accord.uvarc.io/">Click me</button>
+
+.. raw:: html
+
+    <button class="btn-accord">Invite a Co-Investigator</button>
 
 ## How do I use it?
 
