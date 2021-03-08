@@ -12,7 +12,7 @@ layout: default
 To preview the ACCORD platform, all you need is a browser. 
 
 
-[ACCORD Platform](https://accord.uvarc.io/){: .btn}
+[ACCORD Platform](https://accord.uvarc.io/){: .btn .btn-green }
 
 ## How do I use it?
 
