@@ -6,8 +6,8 @@ layout: default
 
 The fundamental organizing unit for your work in ACCORD is a project. Within this platform, a project consists of:
 
-(A) *Researchers* - a group of approved collaborators.
-(B) *Data* - source and results data that you bring to the project. Data import/export is managed by Globus transfers.
+(A) *Researchers* - a group of approved collaborators.  
+(B) *Data* - source and results data that you bring to the project. Data import/export is managed by Globus transfers.  
 (C) *Storage* - storage within the infrastructure dedicated to your project.
 
 Most research computing platforms strongly associate projects with a specific computing environment. For example,
