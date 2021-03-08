@@ -5,7 +5,7 @@ layout: default
 About ACCORD
 =============================================================
  
-* [What is it](#markdown-header-what-is-it)
+* [Who runs it](#markdown-header-who-runs-it)
 
 Table of Contents:
 1. What is it?
@@ -15,7 +15,7 @@ Table of Contents:
 
 -----
 
-#What is it
+What is it
 -----------------
 
 ACCORD is a collaboration across the public universities of Virginia
@@ -56,7 +56,7 @@ ACCORD offers no SSH, Terminal, FTP, Remote Desktop, or VNC access.
 
 -----
 
-Who runs it?
+# Who runs it?
 ------------------
 
 The ACCORD project was designed and built by the [Research Computing Group](https://www.rc.virginia.edu) at the [University of Virginia](https://www.virginia.edu/), under the coordination of the ACCORD Grant Program Manager
