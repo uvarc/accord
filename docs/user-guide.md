@@ -14,7 +14,7 @@ User onboarding is a multi-step process:
 1. A PI requests access using an online form and explaining their project. Some documentation will be required at this point, including a description of the project data, its level of sensitivity, the anticipated scope of computing for the project, and any supplemental information such as IRB approval, etc.
 
 
-    Add button <button class="btn-accord">Request Access</button>
+<button class="btn-accord">Request Access</button>
 
 2. The project application will be reviewed and approved/declined.
 3. If approved and a PI is from an institution that is new to ACCORD, an MOU/contract between their home institution and UVA will need to be established.
@@ -36,7 +36,7 @@ automatically removed. Suspended projects can be reinstated by request before th
 
 
 
-    Add button <button class="btn-accord">Create/Manage a Project</button>
+<button class="btn-accord">Create/Manage a Project</button>
 
 
 ### Add Team Members
@@ -102,10 +102,10 @@ environments you have run before. Click the orange "Run" button next to an envir
 
 
 
-    button for opswat <button class="btn-accord">Learn more about OPSWAT</button>
+<button class="btn-accord">Learn more about OPSWAT</button>
 
 - Create and install an authentication certificate.
 
 
 
-    button for certificate <button class="btn-accord">Create a Certificate</button>
+<button class="btn-accord">Create a Certificate</button>
