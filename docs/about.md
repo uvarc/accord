@@ -4,7 +4,9 @@ layout: default
 
 About ACCORD
 =============================================================
-   
+ 
+* [What is it](#markdown-header-what-is-it)
+
 Table of Contents:
 1. What is it?
 2. Who can use it?
@@ -13,7 +15,7 @@ Table of Contents:
 
 -----
 
-What is it?
+#What is it
 -----------------
 
 ACCORD is a collaboration across the public universities of Virginia
