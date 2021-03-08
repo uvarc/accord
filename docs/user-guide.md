@@ -13,9 +13,8 @@ User onboarding is a multi-step process:
 
 1. A PI requests access using an online form and explaining their project. Some documentation will be required at this point, including a description of the project data, its level of sensitivity, the anticipated scope of computing for the project, and any supplemental information such as IRB approval, etc.
 
-.. raw:: html
 
-    <button class="btn-accord">Request Access</button>
+    Add button <button class="btn-accord">Request Access</button>
 
 2. The project application will be reviewed and approved/declined.
 3. If approved and a PI is from an institution that is new to ACCORD, an MOU/contract between their home institution and UVA will need to be established.
@@ -35,9 +34,9 @@ The creation of a project triggers three processes behind the scenes:
 PIs may suspend a project at any time using the console. Project data is stored for ~6 months and then
 automatically removed. Suspended projects can be reinstated by request before this time.
 
-.. raw:: html
 
-    <button class="btn-accord">Create/Manage a Project</button>
+
+    Add button <button class="btn-accord">Create/Manage a Project</button>
 
 
 ### Add Team Members
@@ -48,7 +47,7 @@ users at any time, and may also remove users as needed.
 
 Because user authentication is handled through single sign-on from each user's home institution, PIs should
 be aware of the ``eppn`` for their colleagues. An ``eppn`` looks similar to most institutional email
-addresses, in the form of ``userid`` + ``domain``, such as ``mst3k@mit.edu`` or ``abc5y@virginia.edu``.
+addresses, in the form of `userid` + `domain`, such as ``mst3k@mit.edu`` or ``abc5y@virginia.edu``.
 
 
 ## Transfer Data
