@@ -16,17 +16,13 @@ code within a terminal session.
 
 ![Theia](/assets/img/theia-screenshot.jpg)
 
-Learn more about the `Theia Python IDE <https://theia-ide.org/>`_
+Learn more about the [Theia Python IDE](https://theia-ide.org/)
 
 ## Jupyter Lab
 
 Allows for interactive, notebook-based analysis of data. A good choice for pulling quick results or refining your code in 
 numerous languages including Python, R, Julia, bash, etc.
 
-.. image:: ../_static/images/jupyter_sample.png
-   :alt: Jupyter Lab
-   :align: center
-   :width: 80%
 
 Learn more about `Jupyter Lab <https://jupyter.org/>`_
 
