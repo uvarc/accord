@@ -13,7 +13,7 @@ Table of Contents:
 4. Who runs it
 
 
-# What is it
+## What is it
 
 
 ACCORD is a collaboration across the public universities of Virginia
@@ -30,7 +30,7 @@ import data, and then create and use disposable computing environments
 to perform their computational research.
 
 
-# Who can use it
+## Who can use it
 
 
 This platform is open for approved academic research on highly sensitive data. Researchers from
@@ -40,7 +40,7 @@ ACCORD can meet HIPAA, FERPA, and other less-restrictive data sensitivity requir
 restrictive levels, such as CUI, FISMA, PCI cannot be satisfied.
 
 
-# How do I use it
+## How do I use it
 
 
 ACCORD is entirely web-based, which means that the primary software you need is a good, modern 
@@ -54,7 +54,7 @@ ACCORD offers no SSH, Terminal, FTP, Remote Desktop, or VNC access.
 
 
 
-# Who runs it
+## Who runs it
 
 
 The ACCORD project was designed and built by the [Research Computing Group](https://www.rc.virginia.edu) at the [University of Virginia](https://www.virginia.edu/), under the coordination of the ACCORD Grant Program Manager
