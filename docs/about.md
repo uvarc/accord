@@ -4,6 +4,9 @@ layout: default
 
 # About ACCORD
 
+* [What is it](#what-is-it)
+* [Who can use it](#who-can-use-it)
+* [How do I use it](#how-do-i-use-it)
 * [Who runs it](#who-runs-it)
 
 Table of Contents:
