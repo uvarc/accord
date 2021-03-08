@@ -50,4 +50,4 @@ Environments are containerized web interfaces created on-demand for you to use w
 
 Learn more about [ACCORD Computing Environments](environments.html)
 
-Add Launch ACCORD button
+<button class="btn-accord">Open the ACCORD Console</button>
