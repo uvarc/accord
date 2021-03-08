@@ -12,7 +12,8 @@ layout: default
 To preview the ACCORD platform, all you need is a browser. 
 
 
-[ACCORD Platform](https://accord.uvarc.io/){: .btn .btn-green }
+[ACCORD Platform](https://accord.uvarc.io/){: .btn .btn-green <button type="button" name="button" class="btn">Button element</button>
+<button type="button" name="button" class="btn">Button element</button>
 
 ## How do I use it?
 
