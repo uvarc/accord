@@ -5,7 +5,7 @@ layout: default
 About ACCORD
 =============================================================
  
-* [Who runs it](#markdown-header-who-runs-it)
+* [Who](#markdown-header-who)
 
 Table of Contents:
 1. What is it?
@@ -56,7 +56,7 @@ ACCORD offers no SSH, Terminal, FTP, Remote Desktop, or VNC access.
 
 -----
 
-# Who runs it?
+# Who
 ------------------
 
 The ACCORD project was designed and built by the [Research Computing Group](https://www.rc.virginia.edu) at the [University of Virginia](https://www.virginia.edu/), under the coordination of the ACCORD Grant Program Manager
