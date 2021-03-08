@@ -57,6 +57,6 @@ ACCORD offers no SSH, Terminal, FTP, Remote Desktop, or VNC access.
 Who runs it?
 ------------------
 
-The ACCORD project was designed and built by the `Research Computing Group <https://www.rc.virginia.edu>`_ at the `University of Virginia <https://www.virginia.edu/>`_, under the coordination of the ACCORD Grant Program Manager
-`Tho Nguyen <https://vpit.virginia.edu/tho>`_ (faculty, Computer Science) and `Ron Hutchins <https://vpit.virginia.edu/>`_, Vice Provost for Information Technology.
+The ACCORD project was designed and built by the [Research Computing Group](https://www.rc.virginia.edu) at the [University of Virginia](https://www.virginia.edu/), under the coordination of the ACCORD Grant Program Manager
+[Tho Nguyen](https://vpit.virginia.edu/tho) (faculty, Computer Science) and [Ron Hutchins](https://vpit.virginia.edu/), Vice Provost for Information Technology.
 
