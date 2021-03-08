@@ -50,4 +50,4 @@ Environments are containerized web interfaces created on-demand for you to use w
 
 Learn more about [ACCORD Computing Environments](environments.html)
 
-<button class="btn-accord" onclick="https://accord.uvarc.io/">Open the ACCORD Console</button>
+<button class="btn-accord" onclick="location.href='https://accord.uvarc.io/'" type="button">Open the ACCORD Console</button>
