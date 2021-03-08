@@ -56,4 +56,5 @@ Learn more about [ACCORD Computing Environments](environments.html)
 .. raw:: html
 
     <button class="btn-accord">Open the ACCORD Console</button>
-
+    
+{% include button.html url="https://accord.uvarc.io/" %}
