@@ -14,10 +14,7 @@ documentation  and healthy user communities supporting them.
 A rich IDE that allows researchers to manage their files and data, write code with an intelligent editor, and execute 
 code within a terminal session.
 
-.. image:: ../_static/images/theia-screenshot.jpg
-   :alt: Theia IDE
-   :align: center
-   :width: 80%
+![Theia](accord/docs/assets/img/theia-screenshot.jpg)
 
 Learn more about the `Theia Python IDE <https://theia-ide.org/>`_
 
