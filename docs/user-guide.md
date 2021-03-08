@@ -102,7 +102,7 @@ environments you have run before. Click the orange "Run" button next to an envir
 
 
 
-<button class="btn-accord">Learn more about OPSWAT</button>
+<button onclick="location.href='https://www.opswat.com/'" type="button">Learn more about OPSWAT</button>
 
 - Create and install an authentication certificate.
 
