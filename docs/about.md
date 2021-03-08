@@ -5,11 +5,11 @@ layout: default
 About ACCORD
 =============================================================
    
-.. contents:: 
+1. [What] (#what)
 
 -----
 
-What is it?
+##What is it?
 -----------------
 
 ACCORD is a collaboration across the public universities of Virginia
