@@ -16,6 +16,7 @@ To preview the ACCORD platform, all you need is a browser.
 
 
 <button class="btn-accord">Invite a Co-Investigator</button>
+<button class="btn-accord">Manage your Team</button>
 
 ## How do I use it?
 
