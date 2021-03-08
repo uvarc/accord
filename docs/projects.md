@@ -29,10 +29,7 @@ Co-investigators must also enroll in the ACCORD platform and gain approval.
 Once co-investigators are onboarded into the platform, PIs can add them
 to their project(s).
 
-.. raw:: html
-
-    <button class="btn-accord">Invite a Co-Investigator</button>
-    <button class="btn-accord">Manage your Team</button>
+Add Invite a co-investigator and manage your team buttons
 
 
 ACCORD user access is non-hierarchical and makes no distinction between various project personnel when granting permissions. 
@@ -53,8 +50,4 @@ Environments are containerized web interfaces created on-demand for you to use w
 
 Learn more about [ACCORD Computing Environments](environments.html)
 
-.. raw:: html
-
-    <button class="btn-accord">Open the ACCORD Console</button>
-    
-{% include button.html url="https://accord.uvarc.io/" %}
+Add Launch ACCORD button
