@@ -5,7 +5,7 @@ layout: default
 About ACCORD
 =============================================================
    
-1. [What] (#what)
+1. [What is it] (#what is it)
 
 -----
 
