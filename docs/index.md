@@ -14,18 +14,10 @@ UVA Research Computing has developed ACCORD (Assuring Controls Compliance of Res
 ## How to access ACCORD
 
 
-To preview the ACCORD platform, all you need is a browser. 
+To access the ACCORD platform, all you need is a browser. 
 
 
 [Open ACCORD Console](https://accord.uvarc.io/){: .btn .btn-green}
 
 
-## How do I use it?
-
-All UVARC team members have been put into two test projects, `uvarc` and `vogons`.
-
-1. SIGN IN to the ACCORD console.
-2. Select a PROJECT.
-3. Select your ENVIRONMENT: RStudio, Jupyter Notebooks, or Theia Python and click "Start".
-4. Wait a few seconds for your environment to provision. Then click CONNECT to enter the environment.
 
