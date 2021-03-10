@@ -16,13 +16,13 @@ nav_order: 2
 ## What is ACCORD
 
 
-#ACCORD is a collaboration across the public universities of Virginia
-#to build and share cyberinfrastructure for research on highly sensitive 
-#data. Made possible by a grant from the National Science Foundation, 
-#ACCORD attempts to provide a service for institutions that may lack the 
-#financial, staffing, or technical resources to support such a platform. 
-#This project strives to be a repeatable model for other institutions 
-#across the United States.
+ACCORD is a collaboration across the public universities of Virginia
+to build and share cyberinfrastructure for research on highly sensitive 
+data. Made possible by a grant from the National Science Foundation, 
+ACCORD attempts to provide a service for institutions that may lack the 
+financial, staffing, or technical resources to support such a platform. 
+This project strives to be a repeatable model for other institutions 
+across the United States.
 
 ACCORD is project-based, which means that investigators request access 
 to the platform, create a project and populate it with co-investigators, 
@@ -58,5 +58,5 @@ ACCORD offers no SSH, Terminal, FTP, Remote Desktop, or VNC access.
 
 
 The ACCORD project was designed and built by the [Research Computing Group](https://www.rc.virginia.edu) at the [University of Virginia](https://www.virginia.edu/), under the coordination of the ACCORD Grant Program Manager
-[Tho Nguyen](https://vpit.virginia.edu/tho) (faculty, Computer Science) and [Ron Hutchins](https://vpit.virginia.edu/), Vice Provost for Information Technology.
+[Tho Nguyen](https://vpit.virginia.edu/tho) (faculty, Computer Science) and [Ron Hutchins](https://vpit.virginia.edu/), Vice Provost of Academic Technology.
 
