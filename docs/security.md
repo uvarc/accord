@@ -11,7 +11,7 @@ ACCORD can meet HIPAA, FERPA, and other less-restrictive data sensitivity requir
 More restrictive levels, such as CUI, FISMA, PCI cannot be satisfied. A list of compliance
 will be released as the platform nears production launch.
 
-# Authentication
+## Authentication
 
 
 ACCORD makes use of InCommon authentication, a federated SAML-based standard used by most institutions of 
@@ -19,7 +19,7 @@ higher education in the U.S. This means that ACCORD does not have its own user i
 relies upon authentication via your home institution's single sign-on tool.
 
 
-# Authorization
+## Authorization
 
 
 ACCORD manages user access and permissioning non-hierarchically. All members of a project have equal access
@@ -27,7 +27,7 @@ to the data storage for that project, without any privileged superuser or root. 
 by normal POSIX groups defined by COmanage, a collaborative IAM tool from the National Science Foundation.
 
 
-# Closed Environemnts
+## Closed Environemnts
 
 
 ACCORD environments have no outbound connectivity to the Internet other than whitelisted library and tool 
@@ -36,7 +36,7 @@ repositories (yum, PyPi, CPAN, CRAN). Connections to tools such as GitHub and ex
 We are considering implementing a local source control tool in the future.
 
 
-# Encryption
+## Encryption
 
 
 All connectivity to ACCORD environments is encrypted using SSL over HTTPS. 
@@ -45,7 +45,7 @@ Plain-text (unencrypted) access is prohibited.
 Data transfers in/out via the Globus DTN meet FIPS 140-2 compliance.
 
 
-# Pod Isolation
+## Pod Isolation
 
 
 ACCORD environments cannot, by design, have any access to other environments -- including storage, 
@@ -54,8 +54,7 @@ network connectivity is isolated and encrypted. The cluster control plane is als
 and requests.
 
 
-# Private Environment URLs
-
+## Private Environment URLs
 
 **[TO-DO]** When you request an ACCORD environment, a unique HTTPS endpoint is created for you and 
 *can only be used by you*. That URL will look something like:
@@ -68,3 +67,13 @@ Using certificate authentication from your browser (something you will set up th
 ACCORD and will renew annually), the platform verifies that you, and only you, access that environment. 
 If you want to collaborate with a co-investigator, they can simply create an identical environment 
 within the same project!
+
+## Client Posture-Checks
+
+![MetaAccess](/img/opswat.png)
+Access to ACCORD is restricted to computers (laptops, desktop workstations, etc.) that are sufficiently
+updated and meet minimum security requirements. To verify the posture of user workstations, ACCORD uses
+the MetaAccess client, a small piece of software that users install on their local computers. MetaAccess reports
+its status to the OPSWAT API, which ACCORD can check with each user login.
+
+More information about MetaAccess will be posted as it becomes available.
