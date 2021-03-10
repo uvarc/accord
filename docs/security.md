@@ -75,3 +75,9 @@ the MetaAccess client, a small piece of software that users install on their loc
 its status to the OPSWAT API, which ACCORD can check with each user login.
 
 More information about MetaAccess will be posted as it becomes available.
+
+## Logging
+
+All user interactions with ACCORD are logged. These include account creation, approval, project creation, changes
+in group membership, as well as environments users create, connections made to those environments, as well as
+file uploads and downloads through the browser or the Globus DTN.
