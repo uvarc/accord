@@ -13,14 +13,12 @@ will be released as the platform nears production launch.
 
 ## Authentication
 
-
 ACCORD makes use of InCommon authentication, a federated SAML-based standard used by most institutions of 
 higher education in the U.S. This means that ACCORD does not have its own user identity store but instead 
 relies upon authentication via your home institution's single sign-on tool.
 
 
 ## Authorization
-
 
 ACCORD manages user access and permissioning non-hierarchically. All members of a project have equal access
 to the data storage for that project, without any privileged superuser or root. Access Management is controlled
@@ -29,15 +27,13 @@ by normal POSIX groups defined by COmanage, a collaborative IAM tool from the Na
 
 ## Closed Environemnts
 
-
 ACCORD environments have no outbound connectivity to the Internet other than whitelisted library and tool 
-repositories (yum, PyPi, CPAN, CRAN). Connections to tools such as GitHub and external APIs are disallowed.
+repositories (PyPi, CPAN, CRAN). Connections to tools such as GitHub and external APIs are disallowed.
 
 We are considering implementing a local source control tool in the future.
 
 
 ## Encryption
-
 
 All connectivity to ACCORD environments is encrypted using SSL over HTTPS. 
 Plain-text (unencrypted) access is prohibited. 
@@ -46,7 +42,6 @@ Data transfers in/out via the Globus DTN meet FIPS 140-2 compliance.
 
 
 ## Pod Isolation
-
 
 ACCORD environments cannot, by design, have any access to other environments -- including storage, 
 network connectivity, or data. Environments run within isolated Kubernetes pods and their (overlay)
@@ -70,7 +65,7 @@ within the same project!
 
 ## Client Posture-Checks
 
-![MetaAccess](/img/opswat.png)
+![MetaAccess](/assets/img/opswat.png)
 Access to ACCORD is restricted to computers (laptops, desktop workstations, etc.) that are sufficiently
 updated and meet minimum security requirements. To verify the posture of user workstations, ACCORD uses
 the MetaAccess client, a small piece of software that users install on their local computers. MetaAccess reports
