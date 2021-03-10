@@ -108,11 +108,6 @@ color_scheme: nil
 plugins:
   - jekyll-seo-tag
 
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
-
 compress_html:
   clippings: all
   comments: all
