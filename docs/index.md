@@ -7,7 +7,7 @@ nav_order: 1
 
 # ACCORD (Assuring Controls Compliance of Research Data)
 
-UVA Research Computing has developed ACCORD, a web-based platform to analyze and store secure data including HIPAA, FERPA, and other less-restrictive data. ACCORD is a free service and is project-based, meaning investigators request access to the platform, create a project and populate it with co-investigators, import data, and then create and use disposable computing environments to perform their computational research. Currently, the platform supports RStudio, JupyterLab, and Theia Python, however other applications will be added soon. 
+UVA Research Computing has developed ACCORD, a web-based platform to analyze and store secure data including HIPAA, FERPA, and other less-restrictive data. ACCORD is a free service and is project-based, meaning investigators request access to the platform, invite co-investigators, import data, and then use application based computing environments to perform their computational research. Currently, the platform supports RStudio, JupyterLab, and Theia Python, however other applications will be added soon. 
 
 ## How to access ACCORD
 
