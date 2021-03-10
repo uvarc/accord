@@ -65,7 +65,9 @@ within the same project!
 
 ## Client Posture-Checks
 
-<img align=right" alt="MetaAccess by OPSWAT" src="/assets/img/opswat.png" style="float:right;" />
+{:refdef: style="text-align:right;"}
+![MetaAccess](/assets/img/opswat.png)
+{: refdef}
 
 Access to ACCORD is restricted to computers (laptops, desktop workstations, etc.) that are sufficiently
 updated and meet minimum security requirements. To verify the posture of user workstations, ACCORD uses
