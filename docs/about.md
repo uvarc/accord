@@ -29,16 +29,15 @@ to perform their computational research.
 This platform is open for approved academic research on highly sensitive data. Researchers from
 institutions of higher education across the United States are invited to request access.
 
-ACCORD can meet HIPAA, FERPA, and other less-restrictive data sensitivity requirements. More
+ACCORD meets HIPAA, FERPA, and other moderate data sensitivity requirements. More
 restrictive levels, such as CUI, FISMA, PCI cannot be satisfied.
 
 
 ## How do I use it
 
 
-ACCORD is entirely web-based, which means that all you need is a good, modern 
-browser such as Chrome, Firefox, Edge or Safari. Once your project has been approved, you will use the 
-ACCORD Console login and select from one of the applications. Currently we offer RStudio, JupyterLab, and Theia Python.
+ACCORD is entirely web-based, which means it can be easily accessed using a modern browser such as Chrome, Firefox, Edge or Safari. Once you have created a project in ACCORD, you will use the 
+ACCORD Console login and select from one of the applications. Currently we offer RStudio, JupyterLab, and Theia Python. More detailed information can be found in our [User Guide](https://accord-docs.uvarc.io/user-guide.html)
 
 ACCORD offers no SSH, Terminal, FTP, Remote Desktop, or VNC access.
 
@@ -47,6 +46,6 @@ ACCORD offers no SSH, Terminal, FTP, Remote Desktop, or VNC access.
 ## Who runs it
 
 
-The ACCORD project was designed and built by the [Research Computing Group](https://www.rc.virginia.edu) at the [University of Virginia](https://www.virginia.edu/), under the coordination of the ACCORD Grant Program Manager
+The ACCORD project was developed by the [Research Computing Group](https://www.rc.virginia.edu) at the [University of Virginia](https://www.virginia.edu/), under the coordination of the ACCORD Grant Program Manager
 [Tho Nguyen](https://vpit.virginia.edu/tho) and [Ron Hutchins](https://vpit.virginia.edu/), Vice Provost of Academic Technology.
 
