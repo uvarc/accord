@@ -43,7 +43,7 @@ These environments cannot be shared.
 ### Client Posture-Checks
 
 Access to ACCORD is restricted to computers that are sufficiently
-updated and meet minimum security requirements. To verify this, ACCORD uses MetaAccess client, a small piece of software that users install on their local computers. 
+updated and meet minimum security requirements. To verify this, ACCORD uses [OPSWAT client](https://www.opswat.com/), a small piece of software that users install on their local computers. 
 
 ### Logging
 
