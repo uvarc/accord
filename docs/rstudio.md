@@ -7,8 +7,7 @@ title: RStudio
 
 # RStudio
 
-The standard IDE for research using the R programming language. This environment is useful for generating plots and 
-other R-based analysis.
+RStudio is the standard IDE for research using the R programming language.
 
 ![RStudio](/assets/img/rstudio_example.png)
 
