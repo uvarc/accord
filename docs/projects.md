@@ -9,18 +9,11 @@ nav_order: 3
 
 The fundamental organizing unit for your work in ACCORD is a project. Within this platform, a project consists of:
 
-(A) *Researchers* - a group of approved collaborators.  
-(B) *Data* - source and results data that you bring to the project. Data import/export is managed by Globus transfers.  
-(C) *Storage* - storage within the infrastructure dedicated to your project.
++ *Researchers* - a group of approved collaborators.  
++ *Storage* - import and store data for your project up to 1TB. Data import/export is managed by Globus transfers.  
 
-Most research computing platforms strongly associate projects with a specific computing environment. For example,
-a VM (virtual machine) is a dedicated computing resource with storage, data, and user access bundled together into a 
-single unit.
-
-In the case of ACCORD, the computing environment you used is completely independent of your personnel, data, and storage. This means
+Most other research computing platforms limit users to a specific computing environment. In the case of ACCORD, the computing environment you use is completely independent of your personnel, data, and storage. This means
 that you can create and use a variety of environments depending on your research needs on any given day.
-
-Computing Environments are created from an approved library of web-based computing environments.
 
 
 ## Researchers
@@ -35,22 +28,21 @@ to their project(s).
 Add Invite a co-investigator and manage your team buttons
 
 
+## Data
+
+Data can be managed using the Globus federated GridFTP platform. The ACCORD DTN (data transfer node) endpoint
+address can be found once you sign into the ACCORD Console.
+
 ACCORD user access is non-hierarchical and makes no distinction between various project personnel when granting permissions. 
 All project members have equal access to project data, i.e. there is no priviledged user or access for any given project.
 
-## Data
-
-Can be managed using the Globus federated GridFTP platform. The ACCORD DTN (data transfer node) endpoint
-address can be found once you sign into the ACCORD Console.
-
 ## Storage
 
-1TGB of storage will be allocated for each project by default. Additional storage can be purchased for a fee.
+1TB of storage will be allocated for each project by default. Additional storage can be purchased for a fee.
 
 ## Computing Environemts
 
-Environments are containerized web interfaces created on-demand for you to use with your project data and code. Environments cannot span two projects at the same time.
+Environments are web-based platforms created on-demand for you to use with your project. 
 
 Learn more about [ACCORD Computing Environments](environments.html)
 
-<button class="btn-accord" onclick="location.href='https://accord.uvarc.io/'" type="button">Open the ACCORD Console</button>
