@@ -1,15 +1,11 @@
 ---
 layout: default
-#parent: Child of Test
-#grand_parent: Test
 nav_order: 5
 ---
 
 # Security
 
-ACCORD can meet HIPAA, FERPA, and other less-restrictive data sensitivity requirements. 
-More restrictive levels, such as CUI, FISMA, PCI cannot be satisfied. A list of compliance
-will be released as the platform nears production launch.
+ACCORD is appropriate for HIPAA, FERPA, and other types of data with moderate security restrictions. ACCORD cannot be used to process highly-restricted data such as CUI, FISMA, and PCI data.
 
 ## Authentication
 
@@ -51,30 +47,19 @@ and requests.
 
 ## Private Environment URLs
 
-**[TO-DO]** When you request an ACCORD environment, a unique HTTPS endpoint is created for you and 
+When you request an ACCORD environment, a unique HTTPS endpoint is created for you and 
 *can only be used by you*. That URL will look something like:
 
     https://jupyter-notebook-1a2b3c4d5e-mst3k.uvarc.io/
 
 These environments cannot be shared.
 
-Using certificate authentication from your browser (something you will set up the first time you use 
-ACCORD and will renew annually), the platform verifies that you, and only you, access that environment. 
-If you want to collaborate with a co-investigator, they can simply create an identical environment 
-within the same project!
-
 ## Client Posture-Checks
 
-{:refdef: style="text-align:right;"}
-![MetaAccess](/assets/img/opswat.png)
-{: refdef}
-
-Access to ACCORD is restricted to computers (laptops, desktop workstations, etc.) that are sufficiently
+Access to ACCORD is restricted to computers that are sufficiently
 updated and meet minimum security requirements. To verify the posture of user workstations, ACCORD uses
 the MetaAccess client, a small piece of software that users install on their local computers. MetaAccess reports
 its status to the OPSWAT API, which ACCORD can check with each user login.
-
-More information about MetaAccess will be posted as it becomes available.
 
 ## Logging
 
