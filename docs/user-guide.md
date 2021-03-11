@@ -9,7 +9,7 @@ nav_order: 6
 
 User onboarding is a multi-step process:
 
-1.) A PI requests access using an online form. Required documentation includes a description of the project data, level of sensitivity, the anticipated scope of computing for the project, and any supplemental information such as IRB approval, etc.  
+1.) A PI requests access using an online form. Required documentation includes a description of the project data, level of sensitivity, the anticipated scope of computing for the project, and any supplemental information such as IRB approval.  
 
 [Request Access](http://example.com/){: .btn .btn-green }  
 
@@ -20,13 +20,13 @@ User onboarding is a multi-step process:
 6.) When registration is complete the user will be notified by email. Their project will now be created.  
 
 
-### Create a Project
+### Your Project
 
 A new project creates the following:
 
-1. System group with the PI as both a member and owner.
-2. 1TB project storage share within ACCORD cluster storage.
-3. Home directory for the PI within that project storage.
+1. System group with the PI as both a member and owner
+2. 1TB project storage 
+3. Home directory for the PI 
 
 PIs may suspend a project at any time using the console. Project data is stored for ~6 months and then
 automatically removed. Suspended projects can be reinstated by request before this time.
@@ -34,11 +34,10 @@ automatically removed. Suspended projects can be reinstated by request before th
 [Manage a project](http://example.com/){: .btn .btn-green }
 
 
-### Add Team Members
+### Add/Remove Team Members
 
 Once additional researchers have requested access to ACCORD and have been approved (following the onboarding
-steps above), the owner of a project can add those individuals to their project. The PI can add additional 
-users at any time, and may also remove users as needed.
+steps above), the owner of a project can add or remove those individuals at any time. 
 
 Because user authentication is handled through single sign-on from each user's home institution, PIs should
 be aware of the `eppn` for their colleagues. An `eppn` looks similar to most institutional email
@@ -52,14 +51,14 @@ Details on Globus data transfer coming soon
 
 ### Create an Environment
 
-From the ACCORD console, select the project you want to work with. Next select an environment from the list of environments. Your container should be running within a few seconds and will appear under "Running Environments" on the same page.
+From the ACCORD console, select the project you want to work with. Next select an environment. Your container should be running within a few seconds and will appear under "Running Environments" on the same page.
 
 To learn more about your choices of environment, see [Environments](https://accord-documentation.uvarc.io/environments)
 
 ### View the status of an environment
 
 Check the "Running Environments" section of the ACCORD console. This will tell you the type of environment,
-when you created it, how long it has been running, and how to connect to or terminate it.
+when you created it, how long it has been running, and how to connect or terminate it.
 
 
 ### Connect to an Environment
@@ -71,9 +70,8 @@ the "CONNECT" button for the appropriate environment and a new browser tab will 
 ### Terminate an environment
 
 Using the "Running Environments" section of the ACCORD console, find the environment you wish to terminate.
-On the far right will be a red "Terminate" button. Clicking this will stop and destroy your environment.
-Note that your files and storage are never terminated or destroyed in this process. Any special session information
-or data read into memory will be lost, however.
+On the far right will be a red "Terminate" button. Clicking this will terminate your environment.
+Note that your saved files and storage are never terminated or destroyed in this process. 
 
 Terminated environments cannot be recovered. However, they can be replicated (see below).
 
