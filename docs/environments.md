@@ -8,40 +8,15 @@ title: Environments
 # Environments
 
 Environments consist of web-based, containerized interfaces launched on-demand by researchers. Approved environemnts 
-and details about them are below. ACCORD strives to use rich, well-supported, usable container images with quality
+and are listed below. ACCORD strives to use rich, well-supported, usable platforms with quality
 documentation  and healthy user communities supporting them.
 
-
-## Theia Python
-
-A rich IDE that allows researchers to manage their files and data, write code with an intelligent editor, and execute 
-code within a terminal session.
-
-![Theia](/assets/img/theia-screenshot.jpg)
-
-Learn more about the [Theia Python IDE](https://theia-ide.org/)
-
-## Jupyter Lab
-
-Allows for interactive, notebook-based analysis of data. A good choice for pulling quick results or refining your code in 
-numerous languages including Python, R, Julia, bash, etc.
-
-![Jupyter](/assets/img/jupyter_sample.png)
-
-Learn more about [Jupyter Lab](https://jupyter.org/)
++ [Jupyter Lab](https://accord-docs.uvarc.io/jupyter.html)
++ [RStudio](https://accord-docs.uvarc.io/rstudio.html)
++ [Theia Python](https://accord-docs.uvarc.io/theia.html)
 
 
-## RStudio
-
-The standard IDE for research using the R programming language. This environment is useful for generating plots and 
-other R-based analysis.
-
-![RStudio](/assets/img/rstudio_example.png)
-
-Learn more about [RStudio](https://rstudio.com/)
-
-
-## Runtimes & Limitations
+# Runtimes & Limitations
 
 
 - Computing environments can be used for short-lived, interactive, computing and analysis.
