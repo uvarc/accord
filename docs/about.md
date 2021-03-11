@@ -13,7 +13,7 @@ nav_order: 2
 * [Who runs it](#who-runs-it)
 
 
-## What is it
+### What is it
 
 ACCORD (Assuring Controls Compliance of Research Data) gives researchers from different colleges and universities access to a single high-performance computing system capable of processing and storing sensitive data, such as confidential medical information. This is especially important for schools that lack the financial, staffing, or technical resources for such systems. ACCORD is designed to encourage collaborative research partnerships across institutions by managing the risks associated with sensitive data sharing.
 
@@ -23,7 +23,7 @@ import data, and then create and use disposable computing environments
 to perform their computational research.
 
 
-## Who can use it
+### Who can use it
 
 
 This platform is open for approved academic research on highly sensitive data. Researchers from
@@ -33,7 +33,7 @@ ACCORD meets HIPAA, FERPA, and other moderate data sensitivity requirements. Mor
 restrictive levels, such as CUI, FISMA, PCI cannot be satisfied.
 
 
-## How do I use it
+### How do I use it
 
 
 ACCORD is entirely web-based, which means it can be easily accessed using a modern browser such as Chrome, Firefox, Edge or Safari. Once you have created a project in ACCORD, you will use the 
@@ -43,7 +43,7 @@ ACCORD offers no SSH, Terminal, FTP, Remote Desktop, or VNC access.
 
 
 
-## Who runs it
+### Who runs it
 
 
 The ACCORD project was developed by the [Research Computing Group](https://www.rc.virginia.edu) at the [University of Virginia](https://www.virginia.edu/), under the coordination of the ACCORD Grant Program Manager
