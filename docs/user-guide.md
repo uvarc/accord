@@ -89,11 +89,9 @@ environments you have run before. Click the orange "Run" button next to an envir
 - A modern web browser such as Chrome, Firefox, Safari, or Edge.
 - Install and register OPSWAT, a posture-checking client.
 
-
-
-<button onclick="location.href='https://www.opswat.com/'" type="button">Learn more about OPSWAT</button>
+[Learn about OPSWAT](https://www.opswat.com/){: .btn .btn-green }
 
 - Create and install an authentication certificate.
 
-<button onclick="location.href='https://virginia.service-now.com/its/?id=itsweb_kb_article&sys_id=58aafbcfdbf6c744f032f1f51d961927'" type="button">Create a certificate</button>
+[Create a certificate](https://virginia.service-now.com/its/?id=itsweb_kb_article&sys_id=58aafbcfdbf6c744f032f1f51d961927){: .btn .btn-green }
 
