@@ -1,7 +1,6 @@
 ---
 layout: default
-#parent: Child of Test
-#grand_parent: Test
+has_children: true
 nav_order: 4
 ---
 
