@@ -5,6 +5,17 @@ nav_order: 6
 
 # User Guide
 
+* [Request Access](#request-access)
+* [Your Project](#your-project)
+* [Add/Remove Team Members](#add-or-remove-team-members)
+* [Transfer Data](#transfer-data)
+* [Create an Environment](#create-an-environment)
+* [View the Status of an Environment](#view-the-status-of-an-environment)
+* [Connect to an Environment](#connect-to-an-environment)
+* [Terminate an Environment](#terminate-an-environment)
+* [Replicate an Environment](#replicate-an-environment)
+* [Software Requirements](#software-requirements)
+
 ### Request Access
 
 User onboarding is a multi-step process:
@@ -34,7 +45,7 @@ automatically removed. Suspended projects can be reinstated by request before th
 [Manage a project](http://example.com/){: .btn .btn-green }
 
 
-### Add/Remove Team Members
+### Add or Remove Team Members
 
 Once additional researchers have requested access to ACCORD and have been approved (following the onboarding
 steps above), the owner of a project can add or remove those individuals at any time. 
