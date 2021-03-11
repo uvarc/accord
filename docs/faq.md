@@ -1,6 +1,7 @@
 ---
 layout: default
 nav_order: 7
+has_toc: true
 ---
 
 # FAQ's
