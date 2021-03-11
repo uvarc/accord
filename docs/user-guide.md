@@ -5,9 +5,6 @@ nav_order: 6
 
 # User Guide
 
-## Access
-
-
 ### Request Access
 
 User onboarding is a multi-step process:
