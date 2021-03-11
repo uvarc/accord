@@ -11,7 +11,7 @@ nav_order: 7
 
 2  Who can use ACCORD?
 
-Researchers from higher education institutions across the US
++ Researchers from higher education institutions across the US
 
 3  How much does ACCORD cost?
 
