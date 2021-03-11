@@ -25,7 +25,7 @@ Co-investigators must also enroll in the ACCORD platform and gain approval.
 Once co-investigators are onboarded into the platform, PIs can add them
 to their project(s).
 
-**Invite a co-investigator and manage your team buttons coming soon**
+*Invite a co-investigator and manage your team buttons coming soon*
 
 
 ## Data
