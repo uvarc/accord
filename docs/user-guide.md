@@ -9,15 +9,15 @@ nav_order: 6
 
 User onboarding is a multi-step process:
 
-1.) A PI requests access using an online form. Required documentation includes a description of the project data, level of sensitivity, the anticipated scope of computing for the project, and any supplemental information such as IRB approval, etc.
+1.) A PI requests access using an online form. Required documentation includes a description of the project data, level of sensitivity, the anticipated scope of computing for the project, and any supplemental information such as IRB approval, etc.  
 
-[Request Access](http://example.com/){: .btn .btn-green }
+[Request Access](http://example.com/){: .btn .btn-green }. 
 
-2.) The project application will be reviewed and approved/declined.
-3.) If approved and a PI is from an institution that is new to ACCORD, an MOU/contract between their home institution and UVA will need to be established.
-4.) The approved project, under institutional contract, can now be fulfilled.
-5.) The PI will confirm their email and complete final registration steps.
-6.) When registration is complete the user will be notified by email. Their project will now be created.
+2.) The project application will be reviewed and approved/declined.  
+3.) If approved and a PI is from an institution that is new to ACCORD, an MOU/contract between their home institution and UVA will need to be established.  
+4.) The approved project, under institutional contract, can now be fulfilled.  
+5.) The PI will confirm their email and complete final registration steps.  
+6.) When registration is complete the user will be notified by email. Their project will now be created.  
 
 
 ### Create a Project
