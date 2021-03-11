@@ -2,6 +2,7 @@
 layout: default
 parent: Environments
 nav_order: 4
+title: RStudio
 ---
 
 # RStudio
