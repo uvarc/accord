@@ -1,4 +1,10 @@
-## RStudio
+---
+layout: default
+parent: environments
+nav_order: 4
+---
+
+# RStudio
 
 The standard IDE for research using the R programming language. This environment is useful for generating plots and 
 other R-based analysis.
