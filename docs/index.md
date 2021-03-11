@@ -7,19 +7,16 @@ nav_order: 1
 
 # ***ACCORD***
 
-University of Virginia Research Computing has developed ACCORD (Assuring Controls Compliance of Research Data), a web-based platform to analyze and store secure data including HIPAA, FERPA, and other less-restrictive data. 
+Welcome to ACCORD (Assuring Controls Compliance of Research Data), a web-based platform which allows researchers from different colleges and universities to analyze and store their sensitive data in a central location. 
+
+ACCORD is appropriate for HIPAA, FERPA, and other types of data with moderate security restrictions. ACCORD cannot be used to process highly-restricted data such as CUI, FISMA, and PCI data. 
+
+![image](https://user-images.githubusercontent.com/47673110/110833135-2000ce00-826a-11eb-8327-953604a3ebb9.png)
 
 ACCORD is a **free** service that is project-based, meaning investigators request access to the platform, invite co-investigators, store data (up to 1TB), and use application based computing environments to perform their computational research. Currently, the platform supports RStudio, JupyterLab, and Theia Python, however other applications will be added soon. 
 
 ![Accord](/assets/img/accord_demo.png)
 
-## How to access ACCORD
-
-
-To access the ACCORD platform, all you need is a browser. 
-
-
-[Open ACCORD Console](https://accord.uvarc.io/){: .btn .btn-green}
 
 
 
