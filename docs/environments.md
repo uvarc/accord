@@ -7,9 +7,9 @@ title: Environments
 
 # Environments
 
-Environments consist of web-based, containerized interfaces launched on-demand by researchers. Approved environemnts 
+After loggin into the ACCORD platform, you will chose an environment. Approved environemnts 
 and are listed below. ACCORD strives to use rich, well-supported, usable platforms with quality
-documentation  and healthy user communities supporting them.
+documentation and healthy user communities supporting them.
 
 + [Jupyter Lab](https://accord-docs.uvarc.io/jupyter.html)
 + [RStudio](https://accord-docs.uvarc.io/rstudio.html)
@@ -19,10 +19,8 @@ documentation  and healthy user communities supporting them.
 # Runtimes & Limitations
 
 
-- Computing environments can be used for short-lived, interactive, computing and analysis.
-- Environments may also be used for longer, more intensive job runs that may last for hours. 
-- For extended runs, you may close your browser tab and return later, if so desired.
-- While environments cannot be "paused" their configuration can easily be repeated.
+- Computing environments can be used for both short-lived and long-term jobs.
+- For extended runs, you may close your browser tab and return later.
 - Environments are bound to 16 cores / 48GB of memory / 1TB of cluster storage.
 - Outbound access to the Internet is restricted to package and library mirrors such as pip, PyPi, CPAN, CRAN, etc.
 - ACCORD is not a BYOC (Bring Your Own Container) environment, but we welcome your suggestions for additional containers to be considered in the future.
