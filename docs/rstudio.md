@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: environments
+parent: Environments
 nav_order: 4
 ---
 
