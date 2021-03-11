@@ -1,4 +1,11 @@
-## Jupyter Lab
+---
+layout: default
+parent: Environments
+nav_order: 4
+title: Jupyter Lab
+---
+
+# Jupyter Lab
 
 Allows for interactive, notebook-based analysis of data. A good choice for pulling quick results or refining your code in 
 numerous languages including Python, R, Julia, bash, etc.
