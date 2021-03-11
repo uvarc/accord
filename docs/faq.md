@@ -7,5 +7,4 @@ nav_order: 7
 
 ## What is the link to the accord portal?
 
-The ACCORD portal can be accessed at: https://accord.uvarc.io/home
-
+[Open ACCORD platform](https://accord.uvarc.io/home){: .btn .btn-green }
