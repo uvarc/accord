@@ -10,10 +10,6 @@ The fundamental organizing unit for your work in ACCORD is a *project*. A projec
 + *Researchers* - a group of approved collaborators.  
 + *Storage* - import and store up to 1TB of data for your project. 
 
-Most other research computing platforms limit users to a specific computing environment. In the case of ACCORD, the computing environment you use is completely independent of your personnel, data, and storage. This means
-that you can create and use a variety of environments depending on your research needs on any given day.
-
-
 ## Researchers
 
 All Principal Investigators (PI) are carefully vetted and approved by the ACCORD team before they are given access to the ACCORD computing platform. PIs are then free to manage and add additional personnel to their projects, transfer code and data, and control their storage.
