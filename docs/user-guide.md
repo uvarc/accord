@@ -1,8 +1,6 @@
 ---
 layout: default
-#parent: Child of Test
-#grand_parent: Test
-nav_order: 7
+nav_order: 6
 ---
 
 # User Guide
