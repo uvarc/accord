@@ -7,21 +7,15 @@ nav_order: 2
 
 # About ACCORD
 
-* [History of ACCORD](#history-of-accord)
+* [What is it](#what-is-it)
 * [Who can use it](#who-can-use-it)
 * [How do I use it](#how-do-i-use-it)
 * [Who runs it](#who-runs-it)
 
 
-## History of ACCORD
+## What is it
 
-
-ACCORD is a collaboration across the public universities of Virginia
-to build and share cyberinfrastructure for research on highly sensitive 
-data. Made possible by a grant from the National Science Foundation, 
-ACCORD attempts to provide a computing platform for institutions that may lack the 
-financial, staffing, or technical resources. This project strives to be a repeatable model for other institutions 
-across the United States.
+ACCORD (Assuring Controls Compliance of Research Data) gives researchers from different colleges and universities access to a single high-performance computing system capable of processing and storing sensitive data, such as confidential medical information. This is especially important for schools that lack the financial, staffing, or technical resources for such systems. ACCORD is designed to encourage collaborative research partnerships across institutions by managing the risks associated with sensitive data sharing.
 
 ACCORD is project-based, which means that investigators request access 
 to the platform, create a project and populate it with co-investigators, 
