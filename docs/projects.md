@@ -30,5 +30,5 @@ All project members have equal access to project data, i.e. there is no priviled
 
 ## Storage
 
-ACCORD users automatically recieve 1TB of free storage with each project. Additional storage can be purchased for a fee.
+ACCORD users automatically receive 1TB of free storage with each project. Additional storage can be purchased for a fee.
 
