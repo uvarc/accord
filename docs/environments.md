@@ -22,6 +22,6 @@ We welcome your suggestions for additional environments to be included in the fu
 - Computing environments can be used for both short-term and long-term jobs.
 - For extended runs, you may close your browser tab and return later.
 - Environments are limited to 16 cores / 48GB of memory / 1TB of cluster storage.
-- Outbound access to the Internet is restricted to package and library mirrors such as pip, PyPi, CPAN, CRAN, etc.
+- Outbound access to the Internet is restricted to package and library mirrors such as pip, PyPi, CPAN, CRAN, and others.
 
 
