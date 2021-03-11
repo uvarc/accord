@@ -10,7 +10,7 @@ The fundamental organizing unit for your work in ACCORD is a *project*. A projec
 + *Researchers* - a group of approved collaborators.  
 + *Storage* - import and store up to 1TB of data for your project. 
 
-## Researchers
+### Researchers
 
 All Principal Investigators (PI) are carefully vetted and approved by the ACCORD team before they are given access to the ACCORD computing platform. PIs are then free to manage and add additional personnel to their projects, transfer code and data, and control their storage.
 
@@ -20,7 +20,7 @@ Co-investigators are also vetted before they are given access to the ACCORD plat
 *Invite a co-investigator and manage your team buttons coming soon*
 
 
-## Data
+### Data
 
 Data can be transferred using the Globus federated GridFTP platform. The ACCORD DTN (data transfer node) endpoint
 address can be found once you sign into the ACCORD Console.
@@ -28,7 +28,7 @@ address can be found once you sign into the ACCORD Console.
 ACCORD user access is non-hierarchical and makes no distinction between various project personnel when granting permissions. 
 All project members have equal access to project data, i.e. there is no priviledged user or access for any given project.
 
-## Storage
+### Storage
 
 ACCORD users automatically receive 1TB of free storage with each project. Additional storage can be purchased for a fee.
 
