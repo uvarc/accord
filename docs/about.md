@@ -7,21 +7,20 @@ nav_order: 2
 
 # About ACCORD
 
-* [What is it](#what-is-it)
+* [History of ACCORD](#history-of-accord)
 * [Who can use it](#who-can-use-it)
 * [How do I use it](#how-do-i-use-it)
 * [Who runs it](#who-runs-it)
 
 
-## What is ACCORD
+## History of ACCORD
 
 
 ACCORD is a collaboration across the public universities of Virginia
 to build and share cyberinfrastructure for research on highly sensitive 
 data. Made possible by a grant from the National Science Foundation, 
-ACCORD attempts to provide a service for institutions that may lack the 
-financial, staffing, or technical resources to support such a platform. 
-This project strives to be a repeatable model for other institutions 
+ACCORD attempts to provide a computing platform for institutions that may lack the 
+financial, staffing, or technical resources. This project strives to be a repeatable model for other institutions 
 across the United States.
 
 ACCORD is project-based, which means that investigators request access 
@@ -34,7 +33,7 @@ to perform their computational research.
 
 
 This platform is open for approved academic research on highly sensitive data. Researchers from
-institutions of higher education across the Commonwealth of Virginia are invited to request access.
+institutions of higher education across the United States are invited to request access.
 
 ACCORD can meet HIPAA, FERPA, and other less-restrictive data sensitivity requirements. More
 restrictive levels, such as CUI, FISMA, PCI cannot be satisfied.
@@ -43,12 +42,9 @@ restrictive levels, such as CUI, FISMA, PCI cannot be satisfied.
 ## How do I use it
 
 
-ACCORD is entirely web-based, which means that the primary software you need is a good, modern 
-browser such as Chrome, Firefox, Edge or Safari. Once you have created a project, you will use the 
-ACCORD Console to create an environment in which to do your work.
-
-Most ACCORD environments are IDEs (Integrated Development Environment) or interactive code-data
-platforms in wide use.
+ACCORD is entirely web-based, which means that all you need is a good, modern 
+browser such as Chrome, Firefox, Edge or Safari. Once your project has been approved, you will use the 
+ACCORD Console login and select from one of the applications. Currently we offer RStudio, JupyterLab, and Theia Python.
 
 ACCORD offers no SSH, Terminal, FTP, Remote Desktop, or VNC access.
 
