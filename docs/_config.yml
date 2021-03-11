@@ -1,11 +1,11 @@
 title: ACCORD
-# logo: /assets/img/logo.png
+logo: /assets/img/ACCORD_logo.png
 description: Collaborative Research Computing for Sensitive Data
 show_downloads: false
 google_analytics: G-E265TY0TZZ
 remote_theme: pmarsceill/just-the-docs
 accord_console: https://accord.uvarc.io/
-logo: "/assets/img/ACCORD_logo.png"
+
 
 # Enable or disable the site search
 # Supports true (default) or false
