@@ -39,7 +39,7 @@ restrictive levels, such as CUI, FISMA, PCI cannot be satisfied.
 ACCORD is entirely web-based, which means it can be easily accessed using a modern browser such as Chrome, Firefox, Edge or Safari. Once you have created a project in ACCORD, you will use the 
 ACCORD Console login and select from one of the applications. Currently we offer RStudio, JupyterLab, and Theia Python. More detailed information can be found in our [User Guide](https://accord-docs.uvarc.io/user-guide.html)
 
-ACCORD offers no SSH, Terminal, FTP, Remote Desktop, or VNC access.
+ACCORD offers no SSH, FTP, Remote Desktop, or VNC access.
 
 
 
