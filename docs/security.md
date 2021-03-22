@@ -13,12 +13,12 @@ ACCORD does not have its own user identity store but instead relies upon authent
 
 ### Authorization
 
-All members of a project have equal access to the data storage for that project, without any privileged superuser or root. 
+All members of a project have equal access to the data storage for that project, without sudo or root privileges. 
 
-### Closed Environemnts
+### Closed Environments
 
 ACCORD environments have no outbound connectivity to the Internet other than whitelisted library and tool 
-repositories (PyPi, CPAN, CRAN). Connections to tools such as GitHub and external APIs are not allowed.
+repositories (PyPi, CPAN, CRAN, etc.). Connections to tools such as GitHub and external APIs are not allowed.
 
 ### Encryption
 
@@ -34,7 +34,7 @@ network connectivity is isolated and encrypted.
 ### Private Environment URLs
 
 When you request an ACCORD environment, a unique HTTPS endpoint is created for you and 
-*can only be used by you*. That URL will look something like:
+*can only be used by you*. For example:
 
     https://jupyter-notebook-1a2b3c4d5e-mst3k.uvarc.io/
 
@@ -47,6 +47,5 @@ updated and meet minimum security requirements. To verify this, ACCORD uses [OPS
 
 ### Logging
 
-All user interactions with ACCORD are logged. These include account creation, approval, project creation, changes
-in group membership, as well as environments users create, connections made to those environments, as well as
-file uploads and downloads through the browser or the Globus DTN.
+All user interactions with ACCORD are logged including account creation, approval, project creation, changes in group membership, the creation of/changes to environments, and file uploads/downloads using a browser or the Globus DTN.
+
