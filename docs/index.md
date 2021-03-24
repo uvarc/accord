@@ -5,7 +5,6 @@ layout: default
 nav_order: 1
 ---
 
-# ***ACCORD***
 ![Accord_logo](/assets/img/ACCORD_logo.png)
 
 Welcome to ACCORD (Assuring Controls Compliance of Research Data), a web-based platform which allows researchers from different colleges and universities to analyze and store their sensitive data in a central location. 
